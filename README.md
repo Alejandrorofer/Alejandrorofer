@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hola, soy Alejandro Andres Rojas Fernandez.
+🎓 Estudio Ingeniería de Sistemas en la universidad.
+🚀 “El esfuerzo de hoy es el éxito de mañana.”
 <!--
 **Alejandrorofer/Alejandrorofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
